@@ -1,6 +1,6 @@
 # Project : Problem : Dice Rolling game
 
-
+# Steps:
 # 1. use comments to map out how this program should behave.
 # 15. Import random
 # 14. loop while condition is True
@@ -29,8 +29,6 @@
 
 
 # PROGRAM IMPLEMENTATION:
-
-
 
 import random
 
