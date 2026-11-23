@@ -16,6 +16,7 @@ This tutorial includes different python projects on:
 13. Program#11: Arrays.py
 14. Program#12: dotfunction.ipynb
 15. Program#13: How to use dot functions
+16. Program#14: Dice Rolling Game
 
 
 
