@@ -1,5 +1,9 @@
 
 # Project : Problem : Dice Rolling game
+    # when we execute this program, first we get this question: Roll the dice ? (Y/N):
+    # Here we have only 2 options: Yes or No, if you type anything else, we get an error message saying "Invalid choice!"
+    # If we type 'y' either in uppercase or lower case, it doesn't matter and every time we get 2 new random numbers.
+    # and if we type 'n', our program terminates and displays a message saying 'Thanks for playing!"
 
 # Steps:
 # 1. use comments to map out how this program should behave.
